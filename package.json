@@ -1,0 +1,15 @@
+{
+  "name": "yt-live-url",
+  "version": "1.0.0",
+  "description": "Get stream url from live streaming YouTube channels",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "arapurayil <arapurayil@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "undici": "^4.3.1"
+  }
+}
